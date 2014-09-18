@@ -1,0 +1,5 @@
+c:\users\studio fantasy\documents\visual studio 2012\Projects\releaser\releaser\bin\Debug\releaser.exe
+c:\users\studio fantasy\documents\visual studio 2012\Projects\releaser\releaser\bin\Debug\releaser.pdb
+c:\users\studio fantasy\documents\visual studio 2012\Projects\releaser\releaser\obj\Debug\releaser.csprojResolveAssemblyReference.cache
+c:\users\studio fantasy\documents\visual studio 2012\Projects\releaser\releaser\obj\Debug\releaser.exe
+c:\users\studio fantasy\documents\visual studio 2012\Projects\releaser\releaser\obj\Debug\releaser.pdb
